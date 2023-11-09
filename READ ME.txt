@@ -1,0 +1,13 @@
+The values are as follows
+
+h = 50
+
+S = 200 
+
+base joint height = 200
+
+T = 10
+
+link lengths = 100
+
+The motion planning algorithm is elliptical.
